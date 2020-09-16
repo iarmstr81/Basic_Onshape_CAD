@@ -14,4 +14,4 @@ This was a super quick piece to make. Being able to sketch the square, the circl
 This was a more complex piece but overall was really easy to navigate and so far I'm really liking Onshape.
 
 
-<img src="Media/CasterFork.png" width="400">
+<img src="Media/CasterFork.png" width="300">
