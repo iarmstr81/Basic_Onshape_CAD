@@ -21,3 +21,9 @@ This was a super fast assignment. It was great to learn how to revolve.
 
 
 <img src="Media/CasterTire.png" width="300">
+
+## Wheel
+This one took me a bit longer because I was having trouble with creating the cutouts so I had to restart the sketch.
+
+
+<img src="Media/CasterWheel.png" width="300">
