@@ -27,3 +27,10 @@ This one took me a bit longer because I was having trouble with creating the cut
 
 
 <img src="Media/CasterWheel.png" width="300">
+
+## Axle, Collar, and Bearings
+These pieces were quick and were good practice creating new parts in the same part studio.
+
+<img src="Media/CasterAxleCollar.png" width="300">
+<img src="Media/CasterBigBearing.png" width="300">
+<img src="Media/CasterBearing.png" width="300">
