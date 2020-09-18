@@ -41,4 +41,4 @@ I had some trouble with this assembly because some of the mate connecters were a
 ## Assembly
 This was overall really fun to do. Onshape makes mates super easy so it doesn't take aslong to put each part together. I also really like how putting hardware in works. Being able to click on each spot and then insert them is great. I really enjoyed making this and was surprised at how fast I adjusted to Onshape and was able to make the parts.
 
-<img src="Media/CasterAssembly.png" width="300">
+<img src="Media/CasterAssembly.png" width="500">
