@@ -46,8 +46,14 @@ This was overall really fun to do. Onshape makes mates super easy so it doesn't 
 ## Dowel Pins
 This assignment we learned to use configurations and I found out how to use equations/variables on OnShape. I was having some trouble before I used the variable because the short side of the frame piece wouldn't shorten with the long side. After I figured out the variables it was super easy and fast. 
 
+### Pictures
+Dowel:
 <img src="Media/Dowel.png" width="300">
+Dowel Configurations:
 <img src="Media/DowelConfigs.png" width="300">
+Frame Side:
 <img src="Media/FrameSide.png" width="300">
+Frame Configurations:
 <img src="Media/FrameConfigs.png" width="300">
+Frame Assembly:
 <img src="Media/FrameAssem.png" width="300">
