@@ -54,7 +54,7 @@ This assignment we learned to use configurations and I found out how to use equa
 ### Pictures
 Dowel:
 
-<img src="Media/Dowel.png" width="300">
+<img src="Media/Dowel.png" width="200">
 
 Dowel Configurations:
 
