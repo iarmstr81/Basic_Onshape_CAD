@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Caster](##Caster)
 
-- [Dowels](##Dowels)
+- [Dowel Pins](##Dowel_Pins)
 
 ## Caster
 ### Base
