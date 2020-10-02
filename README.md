@@ -48,16 +48,21 @@ This assignment we learned to use configurations and I found out how to use equa
 
 ### Pictures
 Dowel:
+
 <img src="Media/Dowel.png" width="300">
 
 Dowel Configurations:
+
 <img src="Media/DowelConfigs.png" width="300">
 
 Frame Side:
+
 <img src="Media/FrameSide.png" width="300">
 
 Frame Configurations:
+
 <img src="Media/FrameConfigs.png" width="300">
 
 Frame Assembly:
+
 <img src="Media/FrameAssem.png" width="300">
